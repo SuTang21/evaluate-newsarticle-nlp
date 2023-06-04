@@ -1,2 +1,2 @@
 # evaluate-newsarticle-nlp
-Udacity Project
+Access project from master branch.
