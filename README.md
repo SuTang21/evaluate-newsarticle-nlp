@@ -2,9 +2,13 @@
 
 This is a Udacity Front-end Web Development project.
 
+## Information
+
+Project was built using vanilla js and bundled with webpack.
+
 ## Installation
 
-Clone repository using the following command:
+To edit file, clone repository using the following command:
 
 ```bash
 git clone https://github.com/<github username>/4-evaluate-news-article-w-nlp.git
