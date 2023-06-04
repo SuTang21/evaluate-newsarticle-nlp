@@ -1,11 +1,3 @@
-// import { precacheAndRoute } from "workbox-precaching";
-//
-// precacheAndRoute(self.__WB_MANIFEST);
-
-// self.addEventListener("install", (event) => {
-//   event.waitUntil(self.skipWaiting());
-// });
-
 importScripts(
   "https://storage.googleapis.com/workbox-cdn/releases/6.1.5/workbox-core.prod.js"
 );
